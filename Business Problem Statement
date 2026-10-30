@@ -1,13 +1,23 @@
-##  Business Problem Statement – Customer Shopping Behaviour Analysis
+## Business Problem Statement – Customer Shopping Behaviour Analysis
 
-In today's competitive retail market, understanding customer shopping behaviour is essential for improving sales, customer satisfaction, and business growth. The business has collected customer shopping data, including demographics, product preferences, purchase frequency, subscription status, discounts, shipping methods, and customer reviews. However, without proper analysis, it is difficult to identify customer purchasing patterns, understand revenue contributions, and evaluate the effectiveness of promotional strategies.
-The objective of this project is to analyze customer shopping behaviour using Python, MySQL, and Power BI to identify key business insights and provide data-driven recommendations.
+In today's competitive retail market, understanding customer shopping behaviour is essential for improving sales, customer satisfaction, and business growth.
+
+The business has collected customer shopping data, including customer demographics, product preferences, purchase frequency, subscription status, discounts, shipping methods, and customer reviews.
+
+However, without proper analysis, it is difficult to identify customer purchasing patterns, understand revenue contributions, and evaluate the effectiveness of promotional strategies.
+
+**Project Objective**
+
+The objective of this project is to analyze customer shopping behaviour using **Python, MySQL, and Power BI** to identify key business insights and provide data-driven recommendations.
+
+---
 
 ## Key Business Questions
-- Which product categories and items generate the highest revenue?
-- Which customer age groups contribute the most to sales?
-- Do subscribed customers generate more revenue than non-subscribers?
-- How effective are discounts in influencing customer purchases?
-- Which customer segments have higher repeat purchase rates?
-- Which products receive the highest customer ratings?
-- What are the purchasing patterns across different customer demographics?
+
+1. Which product categories and items generate the highest revenue?
+2. Which customer age groups contribute the most to sales?
+3. Do subscribed customers generate more revenue than non-subscribers?
+4. How effective are discounts in influencing customer purchases?
+5. Which customer segments have higher repeat purchase rates?
+6. Which products receive the highest customer ratings?
+7. What are the purchasing patterns across different customer demographics?
